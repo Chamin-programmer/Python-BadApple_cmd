@@ -18,12 +18,6 @@ with cmd.<br>
 ## Change point<br>
 終了条件の明記(if文の追加)<br>
 Windows10のcmdで使えない機能の削除<br>
-Specify end conditions (add if statement)<br>
-Remove library variables that cannot be used in Windows 10 cmd.<br>
-Since the clear command is not available in Windows 10 cmd<br>
-os.system('clear')
-to
-os.system('cls')<br>
 
 ## Download<br>
 https://github.com/kamikire/Python-BadApple_cmd.git
