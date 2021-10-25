@@ -20,4 +20,4 @@ with cmd.<br>
 Windows10のcmdで使えない機能の削除<br>
 
 ## Download<br>
-https://github.com/kamikire/Python-BadApple_cmd.git
+https://github.com/kamikire/Python-BadApple_cmd/archive/refs/heads/main.zip
